@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Dougherty / Site Title"
+title                    : "Paul Dougherty"
 title_separator          : "-"
 name                     : &name "Paul Dougherty"
 description              : &description "personal description"
