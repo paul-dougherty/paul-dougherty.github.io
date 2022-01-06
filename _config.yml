@@ -95,25 +95,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/paul-dougherty"
+  github           : "paul-dougherty"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "PaulJ_Dougherty"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  eBird            : "https://ebird.org/profile/NTA1MTI0/world"
 
 
 # Reading Files
