@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
-![Dougherty CV](/paul-dougherty.github.io/files/Paul Dougherty CV January 2022.pdf)
+[Current CV](http://paul-dougherty.github.io/files/Paul Dougherty CV January 2022.pdf)
+
