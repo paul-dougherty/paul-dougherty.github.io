@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![profile picture](/paul-dougherty.github.io/files/profile_pic2.jpeg){: .align-center }
+
+![profile picture](https://paul-dougherty.github.io/files/profile_pic2.jpeg){: .align-center }
 
 I am a PhD candidate in the [Program in Ecology](http://www.uwyo.edu/pie/) and the Department of [Zoology & Physiology](http://www.uwyo.edu/zoology/) at the University of Wyoming, where I am advised by [Dr. Matthew Carling](https://carlinglab.com/).
 
