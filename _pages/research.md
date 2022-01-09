@@ -12,9 +12,8 @@ The Great Plains of North America host a suture zone where multiple pairs of clo
 ![molt divide map](https://paul-dougherty.github.io/images/molt_migrant_map.png){: .align-center }
 
 ## Western Molt-Migrant Conservation
-![Lazuli Bunting](https://paul-dougherty.github.io/images/AC9FCD15-DE31-4706-857E-3B3E8CD20D25_1_105_c.jpeg){: style="float: left"}
+<img style="float: right;" src="https://paul-dougherty.github.io/images/AC9FCD15-DE31-4706-857E-3B3E8CD20D25_1_105_c.jpeg" alt="Lazuli Bunting" width="250"/>
 By altering weather patterns, global temperatures, and precipitation regimes more rapidly than ever before in the history of life on earth, anthropogenic climate change poses an unprecedented threat to biodiversity. If we hope to mitigate future biodiversity loss, there is an urgent need to identify which species are most vulnerable to climate change and to understand the causes of their vulnerability. Unfortunately, gaps in our knowledge of natural history frequently prevent us from appreciating how climate change threatens species, hindering our ability to implement effective conservation strategies. I am investigating how molting behavior, a chronically understudied aspect of avian biology, can render bird populations vulnerable to climate change. If birds are unable to access sufficient resources at the time of year when they carry out molt, their risk of mortality increases. To meet this heightened metabolic demand, many species of migratory songbirds that breed in western North America have evolved to align their annual molt with a productivity boom induced by the North American monsoon. However, as climate change alters the timing and strength of the monsoon, individuals may now attempt to molt without sufficient resources and populations may start to decline.
-<img src="https://paul-dougherty.github.io/images/AC9FCD15-DE31-4706-857E-3B3E8CD20D25_1_105_c.jpeg" alt="Lazuli Bunting" width="200"/>
 
 ## Irruptive Fringillid movements
 
