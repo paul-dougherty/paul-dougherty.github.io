@@ -4,5 +4,5 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
-
-![Indigo Bunting](https://paul-dougherty.github.io/images/bunting_fw/inbu3.JPG) ![Lazuli Bunting](https://paul-dougherty.github.io/images/bunting_fw/lazb2.JPG)
+### Passerina Field Work (2019, 2021)
+<img style="padding: 10px; float: center;" src="https://paul-dougherty.github.io/images/bunting_fw/inbu3.JPG" alt="Indigo Bunting" width="300"/> <img style="padding: 10px; float: center;" src="https://paul-dougherty.github.io/images/bunting_fw/lazb2.JPG" alt="Lazuli Bunting" width="300"/>
