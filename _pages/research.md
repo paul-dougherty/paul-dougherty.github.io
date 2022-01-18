@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Adaptive divergence in molting behavior as mechanism of reproductive isolation in birds
+## Adaptive divergence in molting behavior as a mechanism of reproductive isolation in birds
 
-The Great Plains of North America host a suture zone where multiple pairs of closely related plant and animal taxa hybridize. Most of the avian hybrid zones in the Great Plains are characterized by strong divergence in molt and migration phenology, with eastern taxa molting before migrating each fall and western taxa migrating before molting. This stark difference in life history may manifest as disadvantageous phenotypic combinations in hybrid offspring, imposing strong post-zygotic reproductive isolation and maintaining the genetic integrity of parental taxa. I am currently integrating studies of captive birds, whole genomes, stable isotopes, and museum specimens to investigate how molt phenology divergence mediates introgression in these systems.
+The Great Plains of North America host a suture zone where multiple pairs of closely related plant and animal taxa hybridize. Most of the avian hybrid zones in the Great Plains are characterized by strong divergence in molt and migration phenology, with eastern taxa molting primarily before migrating each fall and western taxa molting during an extended migratory stopover in the Southwest. This stark difference in life history may manifest as disadvantageous phenotypic combinations in hybrid offspring, imposing strong post-zygotic reproductive isolation and maintaining the genetic integrity of parental taxa. I am currently integrating studies of captive birds, whole genomes, stable isotopes, and museum specimens to investigate how molt phenology divergence mediates introgression in these systems.
 
 ![molt divide map](https://paul-dougherty.github.io/images/molt_migrant_map.png){: .align-center }
 
