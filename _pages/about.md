@@ -13,4 +13,4 @@ I am a PhD candidate in the [Program in Ecology](http://www.uwyo.edu/pie/) and t
 
 My research aims to improve our understanding of the evolutionary processes that generate and maintain biodiversity, particularly in birds. I cite my lifelong love of natural history as the primary motivation for my work.
 
-![profile picture](https://paul-dougherty.github.io/files/profile_pic2.jpeg){: .align-center }
+![profile picture](https://paul-dougherty.github.io/files/FF917E27-54AF-414F-A3C7-0C5FE4B86D2D_1_105_c.jpeg){: .align-center }
