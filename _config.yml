@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Paul Dougherty"
   avatar           : "inbu.png"
-  bio              : "PhD Candidate
-  University of Wyoming"
+  bio              : "PhD Candidate<br>University of Wyoming"
   #location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3dOBf3oAAAAJ"
