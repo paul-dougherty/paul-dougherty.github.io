@@ -10,6 +10,7 @@ author_profile: true
 The Great Plains of North America host a suture zone where multiple pairs of closely related plant and animal taxa hybridize. Most of the avian hybrid zones in the Great Plains are characterized by strong divergence in molt and migration phenology, with eastern taxa molting primarily before migrating each fall and western taxa molting during an extended migratory stopover in the Southwest. This stark difference in life history may manifest as disadvantageous phenotypic combinations in hybrid offspring, imposing strong post-zygotic reproductive isolation and maintaining the genetic integrity of parental taxa. I am currently integrating studies of captive birds, whole genomes, stable isotopes, and museum specimens to investigate how molt phenology divergence mediates introgression in these systems.
 
 ![molt divide map](https://paul-dougherty.github.io/images/molt_migrant_map.png){: .align-center }
+Relative breeding, molting, and overwintering locations of Indigo Bunting and Lazuli Bunting, which hybridize where their breeding distributions overlap in the Great Plains.
 
 ## Western Molt-Migrant Conservation
 <img style="padding: 15px; float: left;" src="https://paul-dougherty.github.io/images/AC9FCD15-DE31-4706-857E-3B3E8CD20D25_1_105_c.jpeg" alt="Lazuli Bunting" width="275"/>
