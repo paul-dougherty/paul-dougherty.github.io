@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-[Current CV](http://paul-dougherty.github.io/files/Paul Dougherty CV May 2022.pdf)
+[Current CV](http://paul-dougherty.github.io/files/Dougherty_cv_july2022.pdf)
 
