@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the [Program in Ecology & Evolution](http://www.uwyo.edu/pie/) and the Department of [Zoology & Physiology](http://www.uwyo.edu/zoology/) at the University of Wyoming, where I am advised by [Dr. Matthew Carling](https://carlinglab.com/).
+I am an NSF Postdoctoral Research Fellow at the University of Massachusetts, where I am advised by [Maria Stager](https://stagerlab.weebly.com/) and [Nathan Senner](http://www.sennerlab.com/). I recently completed my PhD with [Matthew Carling](https://carlinglab.com/) in the [Program in Ecology & Evolution](http://www.uwyo.edu/pie/) and the Department of [Zoology & Physiology](http://www.uwyo.edu/zoology/) at the University of Wyoming.
 
 My research aims to improve our understanding of the evolutionary processes that generate and maintain biodiversity, particularly in birds. I cite my lifelong love of natural history as the primary motivation for my work.
 
