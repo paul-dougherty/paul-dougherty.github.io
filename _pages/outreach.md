@@ -5,6 +5,8 @@ permalink: /outreach/
 author_profile: true
 ---
 
+I gave a podcast interview about my postdoctoral research for the [Northern Arizona Audubon Society(https://www.buzzsprout.com/2488577/episodes/17432855).
+
 As an ornithologist, I am incredibly fortunate that my study organisms are both ubiquitous and charismatic. I believe that one of the most important aspects of my postion is to take advantage of these qualities to promote engagement with and inclusion in the natural world. Some of my recent outreach activities are listed below.
 
 Since 2017, I have been a board member of the [Laramie Audubon Society](http://laramieaudubon.blogspot.com/), where I compile and contribute to the organization's [newsletter](http://laramieaudubon.blogspot.com/p/newsletters.html). I also regularly lead birding trips and help to plan community events.
