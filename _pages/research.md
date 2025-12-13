@@ -16,7 +16,7 @@ Now, as a National Science Foundation postdoctoral research fellow at the Univer
 
 Related Publications:
 
-**Dougherty, PJ,** RS Terrill, and MD Carling. 2025. Molting strategy influences vulnerability to climate change in migratory birds. The American Naturalist. [Link]([https://benthamopen.com/FULLTEXT/TOOENIJ-11-1](https://www.journals.uchicago.edu/doi/10.1086/739609))
+**Dougherty, PJ,** RS Terrill, and MD Carling. 2025. Molting strategy influences vulnerability to climate change in migratory birds. The American Naturalist. [Link](https://www.journals.uchicago.edu/doi/10.1086/739609)
 
 
 ## A full annual cycle approach to studying speciation
@@ -25,7 +25,7 @@ As individual tracking devices and year-round genetic sampling become more acces
 
 Related Publications:
 
-**Dougherty, PJ** and MD Carling. 2025. Incorporating the full annual cycle when studying reproductive isolation and speciation. Journal of Avian Biology, 2025(5): e03450. [Link]([[https://benthamopen.com/FULLTEXT/TOOENIJ-11-1](https://www.journals.uchicago.edu/doi/10.1086/739609](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/jav.03450)))
+**Dougherty, PJ** and MD Carling. 2025. Incorporating the full annual cycle when studying reproductive isolation and speciation. Journal of Avian Biology, 2025(5): e03450. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/jav.03450)
 
 ![molt divide map](https://paul-dougherty.github.io/images/molt_migrant_map.png){: .align-center }
 Relative breeding, molting, and overwintering locations of Indigo Bunting (*Passerina cyanea*) and Lazuli Bunting (*P. amoena*), which hybridize where their breeding distributions overlap in the Great Plains.
@@ -37,7 +37,7 @@ Describing how hybrid zones respond to anthropogenic influence can illuminate ho
 
 **Dougherty, PJ** and MD Carling. 2024. Go west, young bunting: recent climate change drives rapid movement of a Great Plains hybrid zone. Evolution, 78(11): 1774–1789. [Link](https://academic.oup.com/evolut/article/78/11/1774/7745842)
 
-Minor, NR, **PJ Dougherty**, SA Taylor, and MD Carling. 2021. Estimating hybridization in the wild using community science data: a path forward. Evolution, 76(2): 362-372. [Link]([https://academic.oup.com/evolut/article/78/11/1774/7745842](https://academic.oup.com/evolut/article/76/2/362/6728456))
+Minor, NR, **PJ Dougherty**, SA Taylor, and MD Carling. 2021. Estimating hybridization in the wild using community science data: a path forward. Evolution, 76(2): 362-372. [Link](https://academic.oup.com/evolut/article/76/2/362/6728456)
 
 
 <!--
