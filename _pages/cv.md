@@ -1,22 +1,15 @@
 ---
-layout: single
+layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-classes: wide
 ---
 
 {% include base_path %}
 
-<div class="responsive-embed">
-  <iframe 
-    src="{{ base_path }}/files/Dougherty_cv_december2025.pdf"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<p style="text-align: center; margin-top: 1rem;">
-  <a href="{{ base_path }}/files/Dougherty_cv_december2025.pdf" target="_blank">
-    Download CV (PDF)
-  </a>
-</p>
+<iframe 
+  src="{{ base_path }}/files/Dougherty_cv_december2025.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
