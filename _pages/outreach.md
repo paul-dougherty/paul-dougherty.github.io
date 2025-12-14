@@ -18,3 +18,5 @@ I collaborated with other scientists and an artist to concieve and develop the [
 My graduate research was featured in the August 2021 issue of [Birding Magazine](https://www.aba.org/birding-online-august-2021/).
 
 I regularly assist with tours and other outreach events at the [University of Wyoming Museum of Vertebrates](https://www.uwymv.org/).
+
+![aos presenting](https://paul-dougherty.github.io/images/IMG_4608.png){: .align-center }
