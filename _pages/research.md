@@ -23,15 +23,18 @@ Related Publications:
 
 ## A full annual cycle approach to studying speciation
 
+<img style="padding: 15px; float: left;" src="https://paul-dougherty.github.io/images/molt_divide_map2.png" alt="Molt divide map" width="350"/>
+
 As individual tracking devices and year-round genetic sampling become more accessible, research on the historically understudied nonbreeding period has exploded in the past decade. These studies are revealing tremendous inter- and intraspecific variation in migratory, molting, and other nonbreeding strategies, thereby informing efforts to protect bird populations throughout the entire annual cycle. However, we still have much to learn about where and when nonbreeding adaptive variation influences reproductive isolation and speciation. Nonbreeding phenotypes determine which individuals survive between breeding periods and the condition of these individuals at the start of breeding, and therefore inherently influence reproductive isolation. I am studying how adaptive variation in molt and migration strategies between recently diverged taxa mediate gene flow by influencing relative hybrid fitness. My previous work on captive birds demonstrated that some hybrids between taxa with different molt and migration phenology exhibit novel strategies, potentially attempting to replace flight feathers during migration. If these novel strategies force hybrids to molt at times or locations without sufficient resources, they may struggle to supply feather growth and suffer higher mortality rates. 
 
 Related Publications:
 
 **Dougherty, PJ** and MD Carling. 2025. Incorporating the full annual cycle when studying reproductive isolation and speciation. Journal of Avian Biology, 2025(5): e03450. [Link](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/jav.03450)
 
+<!--
 ![molt divide map](https://paul-dougherty.github.io/images/molt_migrant_map.png){: .align-center }
 Relative breeding, molting, and overwintering locations of Indigo Bunting (*Passerina cyanea*) and Lazuli Bunting (*P. amoena*), which hybridize where their breeding distributions overlap in the Great Plains.
-
+-->
 
 ## Evolution and speciation in a changing world
 
@@ -42,6 +45,9 @@ Describing how hybrid zones respond to anthropogenic influence can illuminate ho
 **Dougherty, PJ** and MD Carling. 2024. Go west, young bunting: recent climate change drives rapid movement of a Great Plains hybrid zone. Evolution, 78(11): 1774–1789. [Link](https://academic.oup.com/evolut/article/78/11/1774/7745842)
 
 Minor, NR, **PJ Dougherty**, SA Taylor, and MD Carling. 2021. Estimating hybridization in the wild using community science data: a path forward. Evolution, 76(2): 362-372. [Link](https://academic.oup.com/evolut/article/76/2/362/6728456)
+
+![entropy plots](https://paul-dougherty.github.io/images/entropy_plots_both_final.pdf){: .align-center }
+
 
 
 <!--
