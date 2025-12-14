@@ -19,3 +19,10 @@
     height: 90vh;
   }
 }
+
+/* Optional: completely hide iframe on very small screens and just show download link */
+@media (max-width: 600px) {
+  .cv-embed {
+    display: none;
+  }
+}
