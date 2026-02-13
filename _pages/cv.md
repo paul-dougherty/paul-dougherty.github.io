@@ -10,14 +10,14 @@ classes: wide
 
 <div class="cv-embed">
   <iframe
-    src="{{ base_path }}/files/Dougherty_cv_december2025.pdf"
+    src="{{ base_path }}/files/Dougherty_cv_january2026.pdf"
     loading="lazy"
     allowfullscreen>
   </iframe>
 </div>
 
 <p class="text-center small">
-  <a href="{{ base_path }}/files/Dougherty_cv_december2025.pdf" target="_blank">
+  <a href="{{ base_path }}/files/Dougherty_cv_january2026.pdf" target="_blank">
     Download CV (PDF)
   </a>
 </p>
