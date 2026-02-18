@@ -42,6 +42,8 @@ Relative breeding, molting, and overwintering locations of Indigo Bunting (*Pass
 
 Describing how hybrid zones respond to anthropogenic influence can illuminate how the environment regulates both species distributions and reproductive isolation between species. Unfortunately, only a few hybrid zones have been repeatedly sampled over long enough time frames for significant changes to be detectable. As part of my dissertation, I compared the genetic structure of an avian hybrid zone in the Great Plains of North America at different sampling periods. I observed a rapid westward shift in the center of the hybrid zone in recent decades. By integrating community science datasets, such as eBird, with climate data, I was able to attribute this shift to recent environmental changes and identify anthropogenic climate change as a key mediator of introgression in this system.
 
+Related Publications:
+
 **Dougherty, PJ** and MD Carling. 2024. Go west, young bunting: recent climate change drives rapid movement of a Great Plains hybrid zone. Evolution, 78(11): 1774–1789. [Link](https://academic.oup.com/evolut/article/78/11/1774/7745842)
 
 Minor, NR, **PJ Dougherty**, SA Taylor, and MD Carling. 2021. Estimating hybridization in the wild using community science data: a path forward. Evolution, 76(2): 362-372. [Link](https://academic.oup.com/evolut/article/76/2/362/6728456)
