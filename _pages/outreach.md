@@ -11,7 +11,7 @@ I gave a podcast interview about my postdoctoral research for the [Northern Ariz
 
 I am an [eBird](https://ebird.org/profile/NTA1MTI0/world) reviewer for the Southern Rockies and South/Central Basin regions of Wyoming.
 
-From 2017 to 2023, I served as a board member of the [Laramie Audubon Society](http://laramieaudubon.blogspot.com/), where I compiled and contributed to the organization's [newsletter](http://laramieaudubon.blogspot.com/p/newsletters.html). I also regularly led birding trips and help to plan community events.
+From 2017 to 2023, I served as a board member of the [Laramie Audubon Society](http://laramieaudubon.blogspot.com/), where I compiled and contributed to the organization's [newsletter](http://laramieaudubon.blogspot.com/p/newsletters.html). I also regularly led birding trips and helped plan community events.
 
 I collaborated with other scientists and an artist to concieve and develop the [Art of Hybridization](https://www.wyomingnews.com/laramieboomerang/news/local_news/art-exhibit-explores-avian-hybridization/article_d671cf80-5b31-5bbd-a2e5-85b68a4a9da8.html), an art show that focuses on the avian hybrid zones of the Great Plains to teach lessons about evolution. Through 2021, the show displayed at multiple locations throughout Wyoming. The Art of Hybridization was funded through a Novel Outreach and Education Grant from the [UW Biodiviersity Institute](http://www.wyomingbiodiversity.org/).
 
