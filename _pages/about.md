@@ -11,6 +11,8 @@ redirect_from:
 
 I am an NSF Postdoctoral Research Fellow at the University of Massachusetts Amherst, where I am advised by [Maria Stager](https://stagerlab.weebly.com/) and [Nathan Senner](http://www.sennerlab.com/). I recently completed my PhD with [Matthew Carling](https://carlinglab.com/) in the [Program in Ecology & Evolution](http://www.uwyo.edu/pie/) and the Department of [Zoology & Physiology](http://www.uwyo.edu/zoology/) at the University of Wyoming.
 
+In 2027, I am starting as an assistant professor at Central Connecticut State University. I am excited to collaborate on research and outreach projects in southern New England.
+
 <!--
 My research aims to improve our understanding of the evolutionary processes that generate and maintain biodiversity, particularly in birds. I cite my lifelong love of natural history as the primary motivation for my work.
 -->
